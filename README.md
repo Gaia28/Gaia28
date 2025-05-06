@@ -6,11 +6,11 @@
 </p>
 
 <p align="left">
-  🦄 Linguagens: Java | PHP | HTML | CSS
+   Linguagens: Java | PHP | HTML | CSS
 </p>
 
 <p align="left">
-  💌 Contatos: ⤵️
+   Contatos: ⤵️
 </p>
 
 <p align="left">
