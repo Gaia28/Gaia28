@@ -6,7 +6,7 @@
 </p>
 
 <p align="left">
-   Linguagens: Java | PHP | HTML | CSS
+   Tecnologias: PHP | Laravel | Mysql |
 </p>
 
 <p align="left">
